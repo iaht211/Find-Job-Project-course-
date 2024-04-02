@@ -1,0 +1,14 @@
+đề bài: Xây dựng công cụ quản lý thông tin của quy trình DevOps
+
+yêu cầu cần có: 
+	+ hiển thị dự án 
+	+ phân quyền: admin của hệ thống, quản lí dự án, thành 	viên trong nhóm, ....
+	+ CRUD các dự án
+	+ quản lý các thành phần như: dự án, nhiệm vụ, giai đoạn 	đoạn của dự án, quản lý thành viên, phân công nhiệm vụ,
+
+yêu cầu hệ thống xử lý tự động: 
+	+ tự động tìm ra vấn đề cần xử lý sau đó gán lại vấn đề 	cho nhóm chịu trách nhiệm liên quan phát triển vấn đề đó.
+
+yêu cầu người dùng cung cấp thông tin:
+	+ cung cấp thông tin, các file về dự án ví dụ: cấu hình 	cho quy trình DevOps, công cụ sử dụng, ...
+	 
